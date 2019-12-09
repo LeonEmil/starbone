@@ -1,0 +1,24 @@
+<picture>
+<img
+sizes="(max-width: 3840px) 100vw, 3840px"
+srcset="
+Recon2_kkdpi0_c_scale,w_600.jpg 600w,
+Recon2_kkdpi0_c_scale,w_2065.jpg 2065w,
+Recon2_kkdpi0_c_scale,w_3036.jpg 3036w,
+Recon2_kkdpi0_c_scale,w_3840.jpg 3840w"
+src="Recon2_kkdpi0_c_scale,w_3840.jpg"
+alt="">
+</picture>
+
+
+
+
+<img
+sizes="(max-width: 3840px) 100vw, 3840px"
+srcset="
+Recon2_kkdpi0_c_scale,w_600.jpg 600w,
+Recon2_kkdpi0_c_scale,w_2065.jpg 2065w,
+Recon2_kkdpi0_c_scale,w_3036.jpg 3036w,
+Recon2_kkdpi0_c_scale,w_3840.jpg 3840w"
+src="Recon2_kkdpi0_c_scale,w_3840.jpg"
+alt="">
